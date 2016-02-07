@@ -1,5 +1,5 @@
-# simpeg
-Contoh Sistem Kepegawaian Sederhana dengan Menggunakan Codeigniter
+# Codeigniter - NoCMS Webblog
+Contoh Web Blog Sederhana dengan Menggunakan Codeigniter
 
 Supaya aplikasi ini dapat berjalan, sesuaikan pengaturan dibawah dengan nama folder anda :
 
